@@ -10,6 +10,18 @@
   <a href="https://videocatch.org">videocatch.org</a>
 </p>
 
+## Disclosure and purpose
+
+This repository is maintained by the team behind VideoCatch. It is the project's official
+public directory, not an independent review or third-party ranking. Its purpose is to give
+readers and crawlers one accurate, human-readable map of the live tool pages on the site.
+A public GitHub listing here does not guarantee search-engine indexing, ranking, or
+backlink value — those outcomes are outside the maintainer's control.
+
+This directory is kept in sync with the site's live sitemap. When a platform page is added,
+removed, or renamed, this README is updated to match rather than left pointing at a stale
+route.
+
 ## What it does
 
 VideoCatch reads a public post the way a signed-out visitor would and hands back every file it holds: the best MP4 encodes, the full-resolution photos of a carousel, or both when a post mixes them. Multi-item posts get a "Download all as zip" button that packs the files in your browser.
@@ -45,5 +57,10 @@ YouTube is left out on purpose. Private posts, stories that need a login, and co
 - Contact: hello@videocatch.org
 - About: https://videocatch.org/about
 - Terms: https://videocatch.org/terms
+- DMCA / takedown policy: https://videocatch.org/dmca
 
 This repository is the public home of the VideoCatch project: the README, the logo, and release notes. The application source is not published here.
+
+## License
+
+This repository's documentation text (this README) is available under [CC BY 4.0](LICENSE). This does not extend to videocatch.org's site content, application source, or trademarks.
